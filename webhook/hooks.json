@@ -1,0 +1,9 @@
+[
+    {
+      "id": "deploycontainer",
+      "execute-command": "/home/ubuntu/dev/deploy.sh",
+      "command-working-directory": "/home/ubuntu/dev",
+      "response-message": "Deploy stkbt_nginx Container Image"
+    }
+]
+  
