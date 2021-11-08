@@ -2,7 +2,7 @@
 # challenge_cicd
 
 # Topology
-![enter image description here](https://raw.githubusercontent.com/fauzanooor/challenge_cicd/main/topology.png)
+![enter image description here](https://raw.githubusercontent.com/fauzanooor/challenge_cicd/main/topology-cicd.png)
 
 # Step 1 - Prepare for the EC2 Instance
 For the EC2 instance we can use Ubuntu 18.04, and install the docker + webhook package on there, below are for the commands:
